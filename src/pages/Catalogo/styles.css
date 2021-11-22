@@ -1,0 +1,19 @@
+.card-container {
+  padding: 30px 10px;
+  background-color: #fff;
+}
+
+.prod {
+  padding: 0;
+}
+
+@media (min-width: 576px) {
+  .prod {
+    padding: 0 10px;
+  }
+
+  .catalogo-container {
+    width: 83%;
+    margin: auto;   
+}
+}

@@ -1,0 +1,15 @@
+.btn{
+    background-color: #00285F;
+    width: 300px;
+    padding-top: 13px;
+}
+
+.btn h6{
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: auto;
+    padding: 5px;
+}
+
+    

@@ -1,0 +1,25 @@
+.btn-outline-secondary{
+    width: 77px;
+    height: 40px;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+
+}
+
+.catalogo-container{
+    padding: 30px 10px 20px 10px;
+    background-color:#EDEDED ;
+    box-shadow: none;
+}
+
+.form-control{
+    background-color: #fff;
+}
+
+@media (min-width: 1400px) {
+    .catalogo-container{
+      width: 35%;
+    }
+  }
+  

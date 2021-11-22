@@ -1,0 +1,11 @@
+.btn{
+    font-size: 14px;
+    color: #fff;
+    background-color: #00285F;
+}
+
+.btn h5 {
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+}
